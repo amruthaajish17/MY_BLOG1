@@ -15,7 +15,7 @@ website:
         href: https://www.instagram.com/i._.am_ruthaaa/
 format:
   html:
-    theme: yeti
+    theme: quartz
     css: styles.css
 
 
